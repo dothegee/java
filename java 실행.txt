@@ -1,0 +1,8 @@
+eclipse 형식
+vscode 에서 cmd + shift + p를 누름
+create java project 라고 검색
+프로젝트 폴더 생성
+자바 프로젝트 이름을 정함
+새창이 뜨면서 bin과 src폴더들을 볼 수 있음
+bin\app 에는 .class
+src\app 에는 .java
