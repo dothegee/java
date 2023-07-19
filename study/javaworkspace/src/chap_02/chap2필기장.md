@@ -11,11 +11,17 @@
 
 2. 증감 연산 (++, --)
 > int val;
+
 > val = 10;
+
 > System.out.println(val); // 10
+
 > System.out.println(++val); // 11
+
 > System.out.println(val); // 11
+
 > System.out.println(val++); // 11
+
 > System.out.println(val); // 12
 
 3. 논리 연산자
@@ -34,4 +40,5 @@
 
 4. 삼항 연산자
 > (결과) = (조건) ? (참의경우 결과값) : (거짓의 경우 결과값)
+
 > (ex)  int max = (x > y) ? x : y;
